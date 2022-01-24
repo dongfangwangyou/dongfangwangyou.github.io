@@ -1,6 +1,10 @@
 ## Welcome to Blog Pages. Android/Java/Kotlin、Flutter/Dart、QuickApp/JS Etc.
-
+---
+每个人都在记录，学习的、工作的、生活的、情感的……我作为热爱开源于分享的Coder,将产品的灵感、开发遇到的问题、Android经典面试题库等资料汇总整理，即是分享，也是沉淀。
 曾任职于多家互联网大型企业，担任移动端项目技术负责人，主导研发和攻关技术难题，深耕Android原生开发多年，掌握Android/Java/Kotlin、Flutter/Dart、QuickApp/JS技术，具有丰富的移动端开发经验。项目涉及IM即时通讯、RTC语音&视频、SaaS分销平台、新闻阅读、移动办公、智慧城市、电子商务、游戏与咨询等众多领域。
+
+### 博客目录
+1. Java博客汇总
 
 ## Welcome to GitHub Pages
 
