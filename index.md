@@ -1,4 +1,6 @@
-## Welcome to Blog Pages.about Android/Java/Kotlin、Flutter/Dart、QuickApp/JS。曾任职于多家互联网大型企业，担任移动端项目技术负责人，主导研发和攻关技术难题，深耕Android原生开发7年，掌握Android/Java/Kotlin、Flutter/Dart、快应用/JS技术，具有丰富的移动端开发经验。项目涉及IM即时通讯、RTC语音社交、视频直播、相芯美颜、人脸识别，以及新闻阅读、SaaS内容分销、移动办公、智慧城市、电子商务、游戏与咨询等众多领域。
+## Welcome to Blog Pages.about Android/Java/Kotlin、Flutter/Dart、QuickApp/JS。
+
+### 曾任职于多家互联网大型企业，担任移动端项目技术负责人，主导研发和攻关技术难题，深耕Android原生开发7年，掌握Android/Java/Kotlin、Flutter/Dart、快应用/JS技术，具有丰富的移动端开发经验。项目涉及IM即时通讯、RTC语音社交、视频直播、相芯美颜、人脸识别，以及新闻阅读、SaaS内容分销、移动办公、智慧城市、电子商务、游戏与咨询等众多领域。
 
 
 ## Welcome to GitHub Pages
