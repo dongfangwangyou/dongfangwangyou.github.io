@@ -1,4 +1,4 @@
-## Welcome to Blog Pages. about Android/Java/Kotlin、Flutter/Dart、QuickApp/JS Etc.
+## Welcome to Blog Pages. Android/Java/Kotlin、Flutter/Dart、QuickApp/JS Etc.
 
 You can use the [editor on GitHub](https://github.com/dongfangwangyou/dongfangwangyou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
